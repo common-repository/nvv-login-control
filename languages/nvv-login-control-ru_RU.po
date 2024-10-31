@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Login Control\n"
+"POT-Creation-Date: 2021-04-01 10:04+0200\n"
+"PO-Revision-Date: 2021-04-01 10:05+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: functions.php:35
+msgid "All users plugin options cleared"
+msgstr "Все опции плагина пользователей очищены"
+
+#: functions/nvv_login_as_user.php:18
+msgid "Login from user"
+msgstr "Войти от пользователя"
+
+#: functions/nvv_login_as_user.php:37
+msgid "Select user"
+msgstr "Выбрать пользователя"
+
+#: functions/nvv_recaptcha.php:36
+#, php-format
+msgid "This site is protected by reCAPTCHA and the Google %s and %s apply."
+msgstr "Этот сайт защищен reCAPTCHA и Google %s и %s применяются."
+
+#: functions/nvv_technical_service.php:27
+msgid "Site closed for users"
+msgstr "Сайт закрыт для пользователей"
+
+#: nvv-login-control.php:146
+msgid "Settings"
+msgstr "Настройки"
+
+#: nvv-login-control.php:147
+msgid "Clearing all user options from the database"
+msgstr "Очистка всех пользовательских опций из базы данных"
+
+#: nvv-login-control.php:147
+msgid "Warning! All user options will be removed forever!"
+msgstr "Предупреждение! Все пользовательские опции будут удалены навсегда!"
+
+#: nvv-login-control.php:147
+msgid "Clear options"
+msgstr "Очистить опции"
+
+#: options/carbonfields/nvv-login-control-options.php:13
+msgid "NVV Login Control options"
+msgstr "NVV Login Control опции"
+
+#: options/carbonfields/nvv-login-control-options.php:19
+msgid "Authorization page"
+msgstr "Страница авторизации"
+
+#: options/carbonfields/nvv-login-control-options.php:20
+msgid "Enable custom authorization page"
+msgstr "Включить пользовательскую страницу авторизации"
+
+#: options/carbonfields/nvv-login-control-options.php:22
+msgid "Logo"
+msgstr "Лого"
+
+#: options/carbonfields/nvv-login-control-options.php:23
+msgid "Go to previous page after login."
+msgstr "Перейти на предыдущую страницу после входа."
+
+#: options/carbonfields/nvv-login-control-options.php:25
+msgid "Don't leave current page after logout."
+msgstr "Не покидать текущую страницу после выхода."
+
+#: options/carbonfields/nvv-login-control-options.php:27
+msgid "Profile Page"
+msgstr "Страница профиля"
+
+#: options/carbonfields/nvv-login-control-options.php:29
+msgid "Select an alternate user profile page."
+msgstr "Выбрать альтернативную страницу профиля пользователя."
+
+#: options/carbonfields/nvv-login-control-options.php:31
+msgid "Page font color"
+msgstr "Цвет шрифта страницы"
+
+#: options/carbonfields/nvv-login-control-options.php:33
+msgid "Page background color"
+msgstr "Цвет фона страницы"
+
+#: options/carbonfields/nvv-login-control-options.php:35
+msgid "Page background image"
+msgstr "Фоновое изображение страницы"
+
+#: options/carbonfields/nvv-login-control-options.php:38
+msgid "Form font color"
+msgstr "Цвет шрифта формы"
+
+#: options/carbonfields/nvv-login-control-options.php:40
+msgid "Form background color"
+msgstr "Цвет фона формы"
+
+#: options/carbonfields/nvv-login-control-options.php:42
+msgid "Form background image"
+msgstr "Фоновое изображение формы"
+
+#: options/carbonfields/nvv-login-control-options.php:45
+msgid "Color submit button"
+msgstr "Цвет кнопки отправки"
+
+#: options/carbonfields/nvv-login-control-options.php:47
+msgid "Color submit button font"
+msgstr "Цвет шрифта кнопки отправки"
+
+#: options/carbonfields/nvv-login-control-options.php:49
+msgid "Color submit button hover"
+msgstr "Цвет кнопки отправки при наведении"
+
+#: options/carbonfields/nvv-login-control-options.php:51
+msgid "Color submit button font hover"
+msgstr "Цвет шрифта кнопки отправки при наведении"
+
+#: options/carbonfields/nvv-login-control-options.php:54
+msgid "Authorization page CSS styles"
+msgstr "CSS стили страницы авторизации"
+
+#: options/carbonfields/nvv-login-control-options.php:56
+msgid "These styles CSS will be applied on the authorization page."
+msgstr "Эти стили CSS будут применены на странице авторизации."
+
+#: options/carbonfields/nvv-login-control-options.php:56
+msgid "For example"
+msgstr "Например"
+
+#: options/carbonfields/nvv-login-control-options.php:60
+msgid "Login as any user"
+msgstr "Войти от имени любого пользователя"
+
+#: options/carbonfields/nvv-login-control-options.php:62
+msgid "Recaptcha V3"
+msgstr ""
+
+#: options/carbonfields/nvv-login-control-options.php:63
+msgid "Enable Recaptcha"
+msgstr "Включить ReCaptcha"
+
+#: options/carbonfields/nvv-login-control-options.php:65
+msgid "Enable Recaptcha on Authorization Page"
+msgstr "Включить Recaptcha на странице авторизации"
+
+#: options/carbonfields/nvv-login-control-options.php:67
+msgid "Hide Recaptcha Logo"
+msgstr "Скрыть Recaptcha Логотип"
+
+#: options/carbonfields/nvv-login-control-options.php:69
+msgid "Recaptcha Site Key"
+msgstr "Ключ reCaptcha"
+
+#: options/carbonfields/nvv-login-control-options.php:70
+msgid "Recaptcha Secret Key"
+msgstr "Секретный ключ reCaptcha"
+
+#: options/carbonfields/nvv-login-control-options.php:73
+msgid "Technical service"
+msgstr "Техническое обслуживание"
+
+#: options/carbonfields/nvv-login-control-options.php:75
+msgid "SEO"
+msgstr ""
+
+#: options/carbonfields/nvv-login-control-options.php:77
+msgid "Other"
+msgstr "Другое"
+
+#: options/carbonfields/nvv-login-control-options.php:80
+msgid "Hide toolbar from users"
+msgstr "Скрыть панель инструментов от пользователей"
+
+#: options/carbonfields/nvv-login-control-options.php:108
+msgid "Select from pages..."
+msgstr "Выбрать страницу..."
+
+#: options/carbonfields/nvv-login-control-options.php:120
+msgid "Public Google Analytics"
+msgstr "Публиковать Google Analytics"
+
+#: options/carbonfields/nvv-login-control-options.php:122
+msgid "Google Analytics"
+msgstr ""
+
+#: options/carbonfields/nvv-login-control-options.php:124
+msgid "Public Keywords"
+msgstr "Публиковать ключевый слова"
+
+#: options/carbonfields/nvv-login-control-options.php:129
+msgid "Meta Keywords "
+msgstr ""
+
+#: options/carbonfields/nvv-login-control-options.php:140
+msgid "Close the site for maintenance for users"
+msgstr "Закрыть сайт для обслуживания пользователей"
+
+#: options/carbonfields/nvv-login-control-options.php:141
+msgid "Access for allowed addresses only"
+msgstr "Доступ только для разрешенных адресов"
+
+#: options/carbonfields/nvv-login-control-options.php:143
+msgid "Your IP"
+msgstr "Ваш IP"
+
+#: options/carbonfields/nvv-login-control-options.php:144
+msgid "Allowed IP-addresses (white list)"
+msgstr "Разрешенные IP-адреса (белый список)"
+
+#: options/carbonfields/nvv-login-control-options.php:145
+msgid ""
+"List of IP-addresses for accessing a closed site. IP-addresses need to be "
+"written through \";\""
+msgstr ""
+"Список IP-адресов для доступа к закрытому сайту. IP-адреса должны быть "
+"написаны через \";\""
+
+#: options/carbonfields/nvv-login-control-options.php:149
+msgid "Text on Maintenance Page "
+msgstr "Текст на странице обслуживания "
+
+#: options/carbonfields/nvv-login-control-options.php:167
+msgid "Enable Login As User"
+msgstr "Включить войти от имени любого пользователя"
+
+#: options/carbonfields/nvv-login-control-options.php:168
+msgid "Trusted Users"
+msgstr "Доверенные пользователи"
+
+#: options/carbonfields/nvv-login-control-options.php:170
+msgid "Only selected users will be allowed to login on behalf of other users."
+msgstr ""
+"Только выбранным пользователям будет разрешено входить в систему от имени "
+"других пользователей."
